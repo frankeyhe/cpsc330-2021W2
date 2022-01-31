@@ -1,14 +1,15 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 19/01/22)
+## Watch out for 👀 (last updated: 29/01/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Please watch the following videos before next class on Thursday: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg).
+Please watch the following videos before next class on Tuesday: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0).
 
-There is still time to complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk).
+HW3 is out and due next Wednesday, February 2nd at 11:59 PM. Please review the important update regarding this homework on [Piazza](https://piazza.com/class/ky0j51i4ud64t5?cid=110). **You are no longer allowed to submit in pairs for this homework.**
 
-HW2 is out and due next Monday, January 24th at 11:59 PM. From HW2, you will be *allowed* to work and submit in pairs! Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
+HW2 grades and solution are available. You have 1 week (until next Saturday) to submit regrading requests.
+
 
 ## Introduction
 
@@ -37,9 +38,9 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | Syllabus quiz | Jan 17, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | 
 | hw1 | Jan 17, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw2 | Jan 24, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
-| hw3 | Jan 31, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw4 | Feb 7, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw5 | Feb 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw3 | Feb 2, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw4 | Feb 11, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw5 | Feb 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Midterm** | Feb 17, during class time| TBD | TBD | 
 | hw6 | Mar 7, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw7 | Mar 14, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
@@ -68,15 +69,15 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 | Jan 13 | [Decision trees](lectures/02_decision-trees.ipynb) | 📹 <li>Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc)</li> <li>After lecture: [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E)</li> |   less depth| 
 | Jan 18 | [ML fundamentals](lectures/03_ml-fundamentals.ipynb) | 📹  <li> Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw)</li> <li>After lecture: [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI)</li>| similar |
 |        |     |**Week 2 datasets:** <li>[California housing](https://www.kaggle.com/harrywang/housing)</li><li>[Spotify Song Attributes](https://www.kaggle.com/geomack/spotifyclassification/home)</li> | |
-| Jan 20 | [$k$-NNs and SVM with RBF kernel](lectures/04_kNNs-SVM-RBF.ipynb) | 📹  <li> Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg)</li> <li>During lecture: [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020)</li>  | less depth |
-| Jan 25 | [Preprocessing, `sklearn` pipelines](lectures/05_preprocessing-pipelines.ipynb) | 📹  <li> Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8)</li><li>During lecture: [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)</li>  |  more depth|
+| Jan 20 | [$k$-NNs and SVM with RBF kernel](lectures/04_kNNs-SVM-RBF.ipynb) | 📹  <li> Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg)</li> <li>After lecture: [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020)</li>  | less depth |
+| Jan 25 | [Preprocessing, `sklearn` pipelines](lectures/05_preprocessing-pipelines.ipynb) | 📹  <li> Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8)</li><li>After lecture: [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)</li>  |  more depth|
 |        |     | **Week 3 dataset:** <li>[California housing](https://www.kaggle.com/harrywang/housing)</li> | |
 | Jan 27 | [More preprocessing, `sklearn` `ColumnTransformer`, text features](lectures/06_column-transformer-text-feats.ipynb) | 📹  <li> Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4)</li> | more depth |
 |        |     |**Week 4 datasets**: <li>[IMDB movie review](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)</li> | |
 | Feb 1 | [Linear models](lectures/07_linear-models.ipynb) | 📹  <li> Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0)</li> |   less depth |
 |        |     |**Week 5 datasets**: <li>[Spotify Song Attributes](https://www.kaggle.com/geomack/spotifyclassification/home)</li><li>[Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)</li> | |
-| Feb 3 | [Hyperparameter optimization, overfitting the validation set](lectures/08_hyperparameter-optimization.ipynb) | 📹  <li> Videos: [8.1](https://youtu.be/lMWdHZSZMk8),[8.2](https://youtu.be/Z9a9XZ0vQv0)</li> |   different|
-| Feb 8 | [Evaluation metrics for classification](lectures/09_classification-metrics.ipynb)  | 📹  <li> Videos: [9.2](https://youtu.be/ZCuCErW5lI8),[9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw)</li> | more depth |
+| Feb 3 | [Hyperparameter optimization, overfitting the validation set](lectures/08_hyperparameter-optimization.ipynb) | 📹  <li> Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8),[8.2](https://youtu.be/Z9a9XZ0vQv0)</li> |   different|
+| Feb 8 | [Evaluation metrics for classification](lectures/09_classification-metrics.ipynb)  | 📹  <li> Pre-watch: [9.2](https://youtu.be/ZCuCErW5lI8),[9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw)</li> | more depth |
 |        |     |**Week 6 datasets**: <li>[Kaggle House Prices data set](https://www.kaggle.com/c/home-data-for-ml-course/)</li> <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#)</li> | |
 | Feb 10 | [Regression metrics](lectures/10_regression-metrics) |  📹 <li>Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ)</li> |   more depth on metrics less depth on regression|
 | Feb 15 | [Ensembles](lecture/11_ensembles.ipynb) |  📹 <li>Pre-watch: [11.1](https://youtu.be/8litm1H7DLo),[11.2](https://youtu.be/EkFkY9QB2Hw)</li> | similar |
