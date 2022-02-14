@@ -1,14 +1,35 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 29/01/22)
+## Watch out for 👀 (last updated: 12/02/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Please watch the following videos before next class on Tuesday: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0).
+⬇️ ⬇️ **Don't miss imporant midterm updates below** ⬇️ ⬇️ 
 
-HW3 is out and due next Wednesday, February 2nd at 11:59 PM. Please review the important update regarding this homework on [Piazza](https://piazza.com/class/ky0j51i4ud64t5?cid=110). **You are no longer allowed to submit in pairs for this homework.**
+HW5 is out and due on Monday, February 28th at 11:59 PM. Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is probably the longest so far. You also want to be comfortable with the content of lectures 9 and 10 for the midterm, so you can use this homework as a way to practice.
 
-HW2 grades and solution are available. You have 1 week (until next Saturday) to submit regrading requests.
+HW4 solution is available. Grades will be available in ~1 week as usual.
+
+In preparation for the midterm exam, the lecture before (February 15) will be used to review a few topics of your choice. As per poll results, we will focus on:
+- Pipelines 
+- Hyperparameters optimization
+- optimization bias
+
+If your topic of choice was not selected, use office hours to ask for clarifications.
+
+## Midterm information
+
+As per calendar, the midterm will be on **February 17, in DMP 310 during class time (expected start at 12:35, end at 1:50, for a total of 75 minutes). No remote options allowed.** 
+
+The exam will be closed-book and it will be administered through Canvas. 
+
+You are required to bring your own computer or tablet to complete the exam. If you do not think you will have one available on the day of the exam, let your instructor know through Piazza **by February 9**. If you come to the exam without a computer, or if your computer malfunctions during the exam, you will be offered a paper version of the test. You do not need to bring anything else to the test: scrap paper will be provided and a basic calculator is accessible in Canvas.
+
+You are also required to bring your UBC student card or another piece or photo ID for identification. **If we are unable to verify your identity because you do not have a valid ID, your exam will be invalidated and you will be assigned a grade of 0.**
+
+Students who require special accommodations must register with CFA and take the exam at their facilities. Remember that **CFA requires you to do so at least 1 week prior to the exam**, so do this ASAP. If you fail to register with CFA and can not take the exam with them, we will not be able to provide alternative accommodations and you will have to take the exam with the rest of the class.
+
+If you are unable to attend the midterm because of unexpected externa circumstances, let me know using [this survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_6olK9fPn6thTyom) by the end of February 20. Failing to communicate that you have missed the midterm in a timely manner will impact the options that we can provide to make up for it.
 
 
 ## Introduction
@@ -80,25 +101,26 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 | Feb 8 | [Evaluation metrics for classification](lectures/09_classification-metrics.ipynb)  | 📹  <li> Pre-watch: [9.2](https://youtu.be/ZCuCErW5lI8),[9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw)</li> | more depth |
 |        |     |**Week 6 datasets**: <li>[Kaggle House Prices data set](https://www.kaggle.com/c/home-data-for-ml-course/)</li> <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#)</li> | |
 | Feb 10 | [Regression metrics](lectures/10_regression-metrics) |  📹 <li>Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ)</li> |   more depth on metrics less depth on regression|
-| Feb 15 | [Ensembles](lecture/11_ensembles.ipynb) |  📹 <li>Pre-watch: [11.1](https://youtu.be/8litm1H7DLo),[11.2](https://youtu.be/EkFkY9QB2Hw)</li> | similar |
+| Feb 15 | Midterm review | [Topic selection poll](https://piazza.com/class/ky0j51i4ud64t5?cid=134) |  |
 | Feb 17 | **Midterm**  | | 
 | Feb 20-26 | **Reading week (no classes)**  | | 
 |        |     |**Week 7 datasets**: <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#)</li> <li>[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)</li>  | |
-| Mar 2 | [feature importances, model interpretation](lectures/12_feat-importances.ipynb) | 📹 <li>Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)</li> | feature importances is new, feature engineering is new |
-| Mar 4 |   [Feature engineering and feature selection](lectures/13_feature-engineering-selection.ipynb) | None | less depth |
+| Mar 2 | [Ensembles](lecture/11_ensembles.ipynb) |  📹 <li>Pre-watch: [11.1](https://youtu.be/8litm1H7DLo),[11.2](https://youtu.be/EkFkY9QB2Hw)</li> | similar |
+| Mar 4 | [feature importances, model interpretation](lectures/12_feat-importances.ipynb) | 📹 <li>Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)</li> | feature importances is new, feature engineering is new |
+| Mar 8 |   [Feature engineering and feature selection](lectures/13_feature-engineering-selection.ipynb) | None | less depth |
 |  | **Part II: Unsupervised learning, transfer learning, different learning settings**  | | 
-| Mar 8 |   [Clustering](lectures/14_k-means-clustering.ipynb) |  📹 <li>Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)</li>  | less depth |
+| Mar 10 |   [Clustering](lectures/14_k-means-clustering.ipynb) |  📹 <li>Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)</li>  | less depth |
 |        |  | **Week 9 datasets**: <li>[Jester 1.7M jokes ratings dataset](https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset)</li> |
-| Mar 10 |   [Simple recommender systems](lectures/15_recommender-systems.ipynb) | | less depth ||
-| Mar 15 |  [Text data, embeddings, topic modeling](lectures/16_natural-language-processing.ipynb)  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>  |   new |
-| Mar 17 | [Neural networks and computer vision](lectures/17_intro_to_computer-vision.ipynb) | |   less depth |
-| Mar 22 | [Time series data](lectures/18_time-series.ipynb) | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
-| Mar 24 | [Survival analysis](lectures/19_survival-analysis.ipynb) | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
+| Mar 15 |   [Simple recommender systems](lectures/15_recommender-systems.ipynb) | | less depth ||
+| Mar 17 |  [Text data, embeddings, topic modeling](lectures/16_natural-language-processing.ipynb)  | 📹 <li>Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)</li>  |   new |
+| Mar 22 | [Neural networks and computer vision](lectures/17_intro_to_computer-vision.ipynb) | |   less depth |
+| Mar 24 | [Time series data](lectures/18_time-series.ipynb) | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
+| Mar 29 | [Survival analysis](lectures/19_survival-analysis.ipynb) | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
 |  | **Part III: Communication, ethics, deployment**  | |
-| Mar 29  |  [Ethics](lectures/20_ethics.ipynb) |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
-| Mar 31 | [Communication](lectures/21_communication.ipynb) | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
-| Apr 5 | [Model deployment and conclusion](lectures/22_deployment-conclusion.ipynb) |  |  new |
-| Apr 7 | Buffer (TBD) |  |  |
+| Mar 31  |  [Ethics](lectures/20_ethics.ipynb) |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
+| Apr 5 | [Communication](lectures/21_communication.ipynb) | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
+| Apr 7 | [Model deployment and conclusion](lectures/22_deployment-conclusion.ipynb) |  |  new |
+
 
 
 ## Working during the COVID-19 global pandemic
