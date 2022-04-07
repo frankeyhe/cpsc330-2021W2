@@ -1,17 +1,41 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 14/03/22)
+## Watch out for 👀 (last updated: 06/04/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Time and place of the final have been released by UBC (see below under Deliverables). 
+Grades for HW7 have been posted on Gradescope. Regrade requests can be submitted by April 13, 11:59PM.
 
-Before our Thursday lecture (17/3), please watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)
+Thursday's lesson (our last one!) will be very practical. To fully benefit from it, I recommend you do the following before coming to class:
+- Create a Heroku account. Register [here](https://www.heroku.com/).
+- Install Heroku CLI. Download [here](https://devcenter.heroku.com/categories/command-line).
 
-Grades for HW5 are available for review on Gradescope. The deadline to submit regrade requests is Wednesday, 16/3 at 11:59 PM.
+Other python installations you will need:
+```
+pip install Flask
+pip install Flask-WTF
+pip install joblib
+```
 
-HW7 is out and due on Monday, March 21st at 11:59 PM. Paired submissions are allowed. 
+**A note on HW8, Q4.3:** For this part of the homework, you won't have to write a real blog post, you can use Jupyter and markdown cells, as long as you format text nicely, include figures etc. If you feel confident about your post and want to share it, you could consider https://medium.com/
 
+If you have trouble embedding images in your Jupyter file, please check this [Piazza post](https://piazza.com/class/ky0j51i4ud64t5?cid=279). And if you *still* have trouble, you can write your blog post as a Google doc file and add the link to your Jupyter notebook.
+
+**The deadline for HW8 has been extended to Monday, April 11, 11:59PM.**
+
+## Please complete course evaluations
+
+I am sure you are very busy these days, but I need to ask you to find 10 minutes of your time and complete the course evaluations on Canvas: https://canvas.ubc.ca/courses/83420/external_tools/4732
+
+The current response rate is very low and if it stays like that I will not have access to the results! Since your input is very valuable, I would hate for that to be the case. This is my first semester teaching this course, and I would very much like to get some input to work with.
+
+Also rest assured that surveys are completely anonymous! The system only tracks who has completed the survey; there is no way to trace responses or comments unless a student self-identifies; additionally, **we only receive a summary report and only after all grades are submitted and finalized. There is no risk of repercussions to students for giving honest, critical feedback.**
+
+A final note: it may help to read this post from one of our coworkers before filling your survey.
+
+https://www.reddit.com/r/UBC/comments/k18qj7/teaching_evaluations_the_good_the_bad_and_the_ugly/
+
+I hope reading this will help you formulate constructive feedback that we can all benefit from.
 
 
 ## Midterm information
@@ -61,8 +85,8 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw5 | Feb 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Midterm** | Feb 17, during class time| TBD | TBD | 
 | hw6 | Mar 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw7 | Mar 21, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw8 | Mar 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw7 | Mar 23, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Final exam** | Apr 27, 15:30 pm | [ESB 1013](https://learningspaces.ubc.ca/classrooms/esb-1013) | Canvas |
 
 
